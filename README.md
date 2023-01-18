@@ -1,10 +1,10 @@
 # PLORD
 Plastordance (Plastic Ordance) modification for Factorio
 
-## Current status
+###  Current status
 Early alpha-prototype
 
-## Localisation
+###  Localisation
 🇷🇺 RU | 🇬🇧 EN (in future)
 
 
