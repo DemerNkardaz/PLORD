@@ -54,6 +54,12 @@ A fraction from High-quality Melted Resin that need using Steam for own craft.<b
 
 Фракция из Высококачественного расплава смолы, требующий Пар для собственного создания.<br>
 
+# Liquid Resin Heavy Fraction / Тяжёлая фракция жидкой смолы
+![LRHF icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/resin-melted-heavy-fraction.png?raw=true)<br><br>
+An byproduct of advanced resin processing. Can be used for coke craft or heavy resin fuel.<br>
+
+Побочный продукт Продвинутой переработки смолы. Может быть использовано для получения кокса или тяжёлосмоляного топлива.<br>
+
 # Crushed Resin Slag / Измельчённый смоляной шлак
 ![Resin-dust icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/package-resin-dust.png)![Resin-dust icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/resin-dust.png)<br><br>
 Resin refining byproduct, which able to smelt in the furnaces and get additional resin ("cashback" of resin refining).<br>
