@@ -1,4 +1,4 @@
-# PLORD - Resin
+# PLORD - Resin [TBD]
 Plastordance (Plastic Ordnance) modification for Factorio<br>
 Пласторданция (Пластиковые Орудия), модификация для Факторио<br>
 
@@ -86,6 +86,25 @@ This is a list of mods what I recommend use with my mod. PLORD can make some cha
 - [Light Overhaul](https://mods.factorio.com/mod/light-overhaul) by Earendel
 - [Lighted Electric Poles +](https://mods.factorio.com/mod/LightedPolesPlus) by Optera
 - [⚠️ Searchlight Assault ⚠️](https://mods.factorio.com/mod/SearchlightAssault) by bolderbrush10
+- [The Ruins Mod](https://mods.factorio.com/mod/AbandonedRuins) by Bilka
+- [Tral's Robot Tree Farm](https://mods.factorio.com/mod/Tral_robot_tree_farm) by MarculTral
+- [King's Turret Shields](https://mods.factorio.com/mod/KingsTurret-Shields) by Kingdud
+- [Beautiful Bridge Railway](https://mods.factorio.com/mod/beautiful_bridge_railway) by kapaer
+- [CanalBuilder (Updated)](https://mods.factorio.com/mod/CanalBuilderWLK) updated by Walkman100
+- [Fire extinguisher](https://mods.factorio.com/mod/extinguisher) by devilwarriors
+- [Long Inserters](https://mods.factorio.com/mods/devilwarriors/Long%20Inserters) by GotLag
+```diff
++ /Are you need more for resin slag logistics??/ +
+```
+- [Realistic Heat Glow](https://mods.factorio.com/mods/devilwarriors/Realistic_Heat_Glow) by max2344
+- [Repair From Vehicle](https://mods.factorio.com/mods/devilwarriors/repair-from-vehicle) by curiosity-a
+- [Schall Uncraft](https://mods.factorio.com/mods/devilwarriors/SchallUncraft) by Schallfalke
+- [Uranium Geiger](https://mods.factorio.com/mods/devilwarriors/uranium_geiger) by ikornaselur
+- [Wildfire](https://mods.factorio.com/mods/devilwarriors/Wildfire) by mk-fg
+- [Jetpack](https://mods.factorio.com/mods/devilwarriors/jetpack) by Earendel
+- [Puppy's Vehicle Fuel UI](https://mods.factorio.com/mods/devilwarriors/puppy-vehicle-fuel-ui) by Puppy
+- [Puppy's Jetpack UI](https://mods.factorio.com/mods/devilwarriors/puppy-jetpack-ui) by Puppy
+- [Stats GUI](https://mods.factorio.com/mods/devilwarriors/StatsGui) by raiguard
 
 # Licensing
 Under MIT License is only technical and some visual parts of mod. Mod uses (or will use) elements from my own copyright licensed content (SHAGOR REALMS fictional world) and this content not affects by "PLORD Mod local license".
