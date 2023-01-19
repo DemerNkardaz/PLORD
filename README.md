@@ -54,7 +54,7 @@ A fraction from High-quality Melted Resin that need using Steam for own craft.<b
 
 Фракция из Высококачественного расплава смолы, требующий Пар для собственного создания.<br>
 
-# Liquid Resin Heavy Fraction / Тяжёлая фракция жидкой смолы
+# Liquid Resin Heavy Fraction / Жидкая смола тяжёлой фракции
 ![LRHF icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/resin-melted-heavy-fraction.png?raw=true)<br><br>
 An byproduct of advanced resin processing. Can be used for coke craft or heavy resin fuel.<br>
 
