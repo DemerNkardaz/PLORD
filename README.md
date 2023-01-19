@@ -111,9 +111,12 @@ This is a list of mods what I recommend use with my mod. PLORD can make some cha
 - [CanalBuilder (Updated)](https://mods.factorio.com/mod/CanalBuilderWLK) updated by Walkman100
 - [Fire extinguisher](https://mods.factorio.com/mod/extinguisher) by devilwarriors
 - [Long Inserters](https://mods.factorio.com/mods/devilwarriors/Long%20Inserters) by GotLag
+- [Side Inserters](https://mods.factorio.com/mods/devilwarriors/Side%20Inserters) by GotLag
 ```diff
 + /Are you need more for resin slag logistics??/ +
 ```
+- [Storage Tank MK2](https://mods.factorio.com/mod/StorageTank2) by Optera
+- [Recipe Book](https://mods.factorio.com/mod/RecipeBook) by raiguard
 - [Realistic Heat Glow](https://mods.factorio.com/mods/devilwarriors/Realistic_Heat_Glow) by max2344
 - [Repair From Vehicle](https://mods.factorio.com/mods/devilwarriors/repair-from-vehicle) by curiosity-a
 - [Schall Uncraft](https://mods.factorio.com/mods/devilwarriors/SchallUncraft) by Schallfalke
