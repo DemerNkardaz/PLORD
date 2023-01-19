@@ -63,6 +63,12 @@ Resin refining byproduct, which able to smelt in the furnaces and get additional
 
 ![Melted resin-present](https://i.imgur.com/KAhAhu0.png?raw=true)<br><br>
 
+# Chemical Boiler / Химический Бойлер
+![Chemical Boilder icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/boiler-chemical.png?raw=true)<br><br>
+Consumes electricity, producting melt of some compounds include harvestable resin.<br>
+
+Потребляет электричество, производит расплавы некоторых соединений, включая собираемую смолу.<br>
+
 ## Misc
 Game vanilla recipes will be changed to use new resources, as example - belts will use rubber.<br>
 
