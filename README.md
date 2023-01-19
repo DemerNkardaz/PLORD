@@ -24,7 +24,7 @@ All resins can be consumed as a fuel, but this is a bad idea - very low power ga
 Все смолы могут быть потрачены как топливо, но это плохая идея - очень низкая энергоотдача и высокой расход предмета. Однако, это может быть исправлено некоторыми комплексными крафтами для рецепта полезного топлива с применение производного угля...<br><br>
 
 ![Resin-present](https://i.imgur.com/taf5WtE.png?raw=true)<br>
-![Resin-present](https://i.imgur.com/FSW5cfl.png?raw=true)<br><br>
+<img src="https://i.imgur.com/FSW5cfl.png" width="250"><br><br>
 
 # Melted Resin / Расплав смолы
 ![Resin-melted icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/resin-melted.png?raw=true)<br><br>
@@ -32,7 +32,7 @@ Liquified and hot (125°C) resin needed for some productions (Refined Resin, etc
 
 Сжиженная и горячая (125°C) смола, необходимая для некоторых продуктов (Переработанная Смола и т.д.).<br>
 
-![Melted resin-present](https://i.imgur.com/jmXkFYG.png?raw=true)<br><br>
+<img src="https://i.imgur.com/uGIusHs.png" width="250"><br><br>
 
 # Refined Resin / Переработанная смола
 ![Resin-refined icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/refined-resin.png?raw=true)<br><br>
@@ -48,17 +48,23 @@ Liquified and hot (125°C) refined resin needed for some productions.<br>
 
 Сжиженная и горячая (125°C) переработанная смола, необходимая для некоторых продуктов.<br>
 
+<img src="https://i.imgur.com/P9uyrj7.png" width="250"><br><br>
+
 # Turpentine / Скипидар
 ![Turpentine icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/turpentine.png?raw=true)<br><br>
 A fraction from High-quality Melted Resin that need using Steam for own craft.<br>
 
 Фракция из Высококачественного расплава смолы, требующий Пар для собственного создания.<br>
 
+<img src="https://i.imgur.com/OokfPz4.png" width="250"><br><br>
+
 # Liquid Resin Heavy Fraction / Жидкая смола тяжёлой фракции
 ![LRHF icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/resin-melted-heavy-fraction.png?raw=true)<br><br>
 An byproduct of advanced resin processing. Can be used for coke craft or heavy resin fuel.<br>
 
 Побочный продукт Продвинутой переработки смолы. Может быть использовано для получения кокса или тяжёлосмоляного топлива.<br>
+
+<img src="https://i.imgur.com/OeN78Xt.png" width="250"><br><br>
 
 # Crushed Resin Slag / Измельчённый смоляной шлак
 ![Resin-dust icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/package-resin-dust.png)![Resin-dust icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/resin-dust.png)<br><br>
@@ -67,7 +73,7 @@ Resin refining byproduct, which able to smelt in the furnaces and get additional
 Побочный продукт очистки смолы, который можно расплавить в плавильнях и получить дополнительную смолу ("кэшбэк" очистки смолы).<br>
 !Temporary using of google-searched dust photo. Will be changed to own photographed.<br>
 
-![Melted resin-present](https://i.imgur.com/KAhAhu0.png?raw=true)<br><br>
+<img src="https://i.imgur.com/KAhAhu0.png" width="500"><br><br>
 
 # Chemical Boiler / Химический Бойлер
 ![Chemical Boilder icon](https://raw.githubusercontent.com/DemerNkardaz/PLORD/misc/icns/boiler-chemical.png?raw=true)<br><br>
