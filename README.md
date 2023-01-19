@@ -110,6 +110,7 @@ This is a list of mods what I recommend use with my mod. PLORD can make some cha
 - [Beautiful Bridge Railway](https://mods.factorio.com/mod/beautiful_bridge_railway) by kapaer
 - [CanalBuilder (Updated)](https://mods.factorio.com/mod/CanalBuilderWLK) updated by Walkman100
 - [Fire extinguisher](https://mods.factorio.com/mod/extinguisher) by devilwarriors
+- [Flow Control](https://mods.factorio.com/mod/Flow%20Control) by Gotlag
 - [Long Inserters](https://mods.factorio.com/mods/devilwarriors/Long%20Inserters) by GotLag
 - [Side Inserters](https://mods.factorio.com/mods/devilwarriors/Side%20Inserters) by GotLag
 ```diff
