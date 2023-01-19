@@ -76,5 +76,16 @@ Early alpha-prototype | UNSTABLE
 This is a list of mods what I recommend use with my mod. PLORD can make some changes in default settings of this mods.<br>
 Список модов, рекомендуемых к использованию с моим. PLORD может изменять настройки по умолчанию этих модов.<br>
 
+- [Alien Biomes](https://mods.factorio.com/mod/alien-biomes) by Earendel
+- [Informatron](https://mods.factorio.com/mod/informatron) by Earendel
+- [RampantFixed](https://mods.factorio.com/mod/RampantFixed) edited by Dimm2102 or "Vanilla" [Rampant](https://mods.factorio.com/mod/Rampant) by Veden
+- [Marine Life](https://mods.factorio.com/mod/marine-life) by dodo.the.last
+- [Clockwork](https://mods.factorio.com/mod/Clockwork) by Yehn
+- [Lightorio](https://mods.factorio.com/mod/lightorio) by warped_jack
+- [Hazard Lights Fix](https://mods.factorio.com/mod/Hazard-Lights_Fix) edited by Fr_Dae original by SpaceCat-Chan
+- [Light Overhaul](https://mods.factorio.com/mod/light-overhaul) by Earendel
+- [Lighted Electric Poles +](https://mods.factorio.com/mod/LightedPolesPlus) by Optera
+- [⚠️ Searchlight Assault ⚠️](https://mods.factorio.com/mod/SearchlightAssault) by bolderbrush10
+
 # Licensing
 Under MIT License is only technical and some visual parts of mod. Mod uses (or will use) elements from my own copyright licensed content (SHAGOR REALMS fictional world) and this content not affects by "PLORD Mod local license".
