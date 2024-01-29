@@ -1,0 +1,2 @@
+This is an assets from reccomended mods what be enhanced from original files (better icon quality or other changes).
+All this files is under original author's licensing and enhanced only for better experience as well.

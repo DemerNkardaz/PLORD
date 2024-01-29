@@ -1,0 +1,1 @@
+PLORD_add_ing("recipe", "plastic-bar", {type="item", name="PLORD_rosin", amount=1})
