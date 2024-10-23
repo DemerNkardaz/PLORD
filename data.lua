@@ -11,12 +11,12 @@ game_core.base_ent_sounds_path = require("__base__.prototypes.entity.sounds")
 
 flib_utils.copy_prototype = require('__flib__.data-util').copy_prototype
 
-
 PLORD.dir = "__PLORD__"
 PLORD.pfx = "PLORD_"
 PLORD.asset = PLORD.dir .. "/graphics/"
 PLORD.asset_ent = PLORD.dir .. "/graphics/entity/"
 PLORD.asset_icon = PLORD.dir .. "/graphics/icons/"
+PLORD.asset_item_groups = PLORD.dir .. "/graphics/item_groups/"
 PLORD.asset_tech = PLORD.dir .. "/graphics/technology/"
 
 PLORD.attr = PLORD.dir .. "/prototypes/"
@@ -28,4 +28,5 @@ PLORD.mods_compatibility = PLORD.dir .. "/prototypes/mods_compatibility"
 require("lib/utils")
 require(PLORD.attr .. "anims")
 require(PLORD.attr .. "categories_hub")
+require(PLORD.attr .. "item_groups")
 require(PLORD.attr_exts .. "data_hub")

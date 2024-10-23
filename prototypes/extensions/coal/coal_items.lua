@@ -4,14 +4,16 @@ data:extend({
 		name = PLORD.pfx .. "charcoal",
 		icon = PLORD.asset_icon .. "charcoal.png",
 		icon_size = 64, icon_mipmaps = 4,
+		burnt_result = "PLORD_coal_ashenslag",
 		fuel_category = "chemical",
 		fuel_value = "2MJ",
 		subgroup = "raw-resource",
 		order = "b[coal]-b",
 		stack_size = 50,
 		pictures = {
-			{filename = PLORD.asset_icon .. "charcoal.png", size = 64, scale = 0.25},
-		}
+			{filename = PLORD.asset_icon .. "charcoal.png", size = 64, scale = 0.5},
+		},
+    weight = 1 * kg,
 	},
 	{
 		type = "item",
@@ -22,8 +24,9 @@ data:extend({
 		order = "g[resin-ore]-e",
 		stack_size = 100,
 		pictures = {
-			{filename = PLORD.asset_icon .. "carbonium/coal_ash.png", size = 64, scale = 0.25},
-		}
+			{filename = PLORD.asset_icon .. "carbonium/coal_ash.png", size = 64, scale = 0.5},
+		},
+    weight = 200 * grams,
 	},
 	{
 		type = "item",
@@ -34,8 +37,9 @@ data:extend({
 		order = "g[resin-ore]-e",
 		stack_size = 100,
 		pictures = {
-			{filename = PLORD.asset_icon .. "carbonium/coal_ash.png", size = 64, scale = 0.25},
-		}
+			{filename = PLORD.asset_icon .. "carbonium/coal_ash.png", size = 64, scale = 0.5},
+		},
+    weight = 100 * grams,
 	},
 	{
 		type = "item",
@@ -46,7 +50,8 @@ data:extend({
 		order = "g[resin-ore]-e",
 		stack_size = 100,
 		pictures = {
-			{filename = PLORD.asset_icon .. "carbonium/coal_slag.png", size = 64, scale = 0.25},
-		}
+			{filename = PLORD.asset_icon .. "carbonium/coal_slag.png", size = 64, scale = 0.5},
+		},
+    weight = 100 * grams,
 	},
 })

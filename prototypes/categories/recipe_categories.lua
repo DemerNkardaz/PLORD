@@ -1,7 +1,8 @@
 local categories = {
 	{name = "chemboiler_craft"},
-	{name = "coke_smeltings"},
-	{name = "radios_melting"},
+	{name = "coke_smelting"},
+	{name = "wood_processing"},
+	{name = "radio_smelting"},
 	{name = "ingot_smelting"},
 }
 

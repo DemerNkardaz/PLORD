@@ -1,0 +1,1 @@
+require(PLORD.attr_exts_ffx .. "natural_resources")
