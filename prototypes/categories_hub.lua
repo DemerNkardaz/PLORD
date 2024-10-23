@@ -1,0 +1,8 @@
+require(PLORD.attr .. "categories/ammo_categories")
+require(PLORD.attr .. "categories/damage_types")
+require(PLORD.attr .. "categories/equipment_categories")
+require(PLORD.attr .. "categories/fuel_categories")
+require(PLORD.attr .. "categories/module_categories")
+require(PLORD.attr .. "categories/qualities")
+require(PLORD.attr .. "categories/recipe_categories")
+require(PLORD.attr .. "categories/resource_categories")

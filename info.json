@@ -1,0 +1,16 @@
+{
+  "name": "PLORD",
+  "version": "0.0.1",
+  "title": "Plastordance",
+  "author": "Demer Nkardaz",
+  "contact": "",
+  "homepage": "",
+  "description": "New recipes, resources and armaments.",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age >= 2.0.0",
+    "flib >= 0.15.0",
+    "alien-biomes"
+  ]
+}
