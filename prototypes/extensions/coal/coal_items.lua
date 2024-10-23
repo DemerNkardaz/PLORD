@@ -6,7 +6,7 @@ data:extend({
 		icon_size = 64, icon_mipmaps = 4,
 		burnt_result = "PLORD_coal_ashenslag",
 		fuel_category = "chemical",
-		fuel_value = "2MJ",
+		fuel_value = "2.7MJ",
 		subgroup = "raw-resource",
 		order = "b[coal]-b",
 		stack_size = 50,

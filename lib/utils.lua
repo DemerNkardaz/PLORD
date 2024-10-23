@@ -28,8 +28,15 @@ PLORD_Utils.insert_attribute_to = function(t, name, assigns)
 			if not entity[assign] then 
 				entity[assign] = {} 
 			end
-			for sub_key, sub_value in pairs(value) do
-				entity[assign][sub_key] = sub_value
+
+			if #value > 0 then
+				for _, sub_value in ipairs(value) do
+					table.insert(entity[assign], sub_value)
+				end
+			else
+				for sub_key, sub_value in pairs(value) do
+					entity[assign][sub_key] = sub_value
+				end
 			end
 		else
 			if not entity[assign] then 
@@ -67,7 +74,6 @@ PLORD_Utils.make_categories = function(type, array)
 
 	data:extend(categories)
 end
-
 
 PLORD_Utils.add_loot = function(t, name, items)
 	local entity = data.raw[t][name]

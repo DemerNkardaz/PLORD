@@ -1,1 +1,0 @@
-data.raw["item"]["coal"].burnt_result = "PLORD_coal_ashenslag"
