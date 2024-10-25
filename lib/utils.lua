@@ -14,35 +14,46 @@ PLORD_Utils.get_objects_filtered = function(filters)
 	return results
 end
 
-PLORD_Utils.assign_attribute_to = function(t, name, assigns)
-	local entity = data.raw[t][name]
-	for assign, value in pairs(assigns) do
-		entity[assign] = value
+PLORD_Utils.push_attribute_to = function(t, names, assigns, mode)
+	mode = mode or "insert"
+	-- Приводим к таблице, если передано одно имя
+	if type(names) == "string" then 
+		names = {names} 
 	end
-end
 
-PLORD_Utils.insert_attribute_to = function(t, name, assigns)
-	local entity = data.raw[t][name]
-	for assign, value in pairs(assigns) do
-		if type(value) == "table" then
-			if not entity[assign] then 
-				entity[assign] = {} 
-			end
+	for _, name in ipairs(names) do
+		local entity = data.raw[t][name]
+		if not entity then 
+			error("Entity not found: " .. name) 
+		end
 
-			if #value > 0 then
-				for _, sub_value in ipairs(value) do
-					table.insert(entity[assign], sub_value)
-				end
-			else
-				for sub_key, sub_value in pairs(value) do
-					entity[assign][sub_key] = sub_value
+		if mode == "assign" then
+			for assign, value in pairs(assigns) do
+				entity[assign] = value
+			end
+		elseif mode == "insert" then
+			for assign, value in pairs(assigns) do
+				if type(value) == "table" then
+					if not entity[assign] then 
+						entity[assign] = {} 
+					end
+
+					if #value > 0 then
+						for _, sub_value in ipairs(value) do
+							table.insert(entity[assign], sub_value)
+						end
+					else
+						for sub_key, sub_value in pairs(value) do
+							entity[assign][sub_key] = sub_value
+						end
+					end
+				else
+					if not entity[assign] then 
+						entity[assign] = {} 
+					end
+					table.insert(entity[assign], value)
 				end
 			end
-		else
-			if not entity[assign] then 
-				entity[assign] = {} 
-			end
-			table.insert(entity[assign], value)
 		end
 	end
 end

@@ -23,5 +23,5 @@ local structures_modify = {
 }
 
 for _, structure in pairs(structures_modify) do
-	PLORD_Utils.insert_attribute_to(structure.type, structure.name, structure.attrib)
+	PLORD_Utils.push_attribute_to(structure.type, structure.name, structure.attrib)
 end
