@@ -16,9 +16,8 @@ end
 
 PLORD_Utils.push_attribute_to = function(t, names, assigns, mode)
 	mode = mode or "insert"
-	-- Приводим к таблице, если передано одно имя
-	if type(names) == "string" then 
-		names = {names} 
+	if type(names) == "string" then
+		names = {names}
 	end
 
 	for _, name in ipairs(names) do
@@ -58,6 +57,19 @@ PLORD_Utils.push_attribute_to = function(t, names, assigns, mode)
 	end
 end
 
+PLORD_Utils.push_attribute_bridge = function(array, default_mode)
+	default_mode = default_mode or "insert"
+
+	for t, entries in pairs(array) do
+		for _, entry in ipairs(entries) do
+			local names = entry[1]
+			local assigns = entry[2]
+			local mode = entry[3] or default_mode
+			
+			PLORD_Utils.push_attribute_to(t, names, assigns, mode)
+		end
+	end
+end
 
 PLORD_Utils.make_categories = function(type, array)
 	local categories = {}

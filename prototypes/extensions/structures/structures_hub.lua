@@ -1,27 +1,13 @@
-local structures_modify = {
-	{
-		type = "furnace", name = "stone-furnace", attrib = {
-			crafting_categories = {PLORD.pfx .. "wood_processing"},
-			energy_source = {
-				burnt_inventory_size = 1
-			},
-		}
-	},
-	{
-		type = "furnace", name = "steel-furnace", attrib = {
-			crafting_categories = {PLORD.pfx .. "wood_processing"},
-			energy_source = {
-				burnt_inventory_size = 2
-			},
-		}
-	},
-	{
-		type = "furnace", name = "electric-furnace", attrib = {
-			crafting_categories = {PLORD.pfx .. "wood_processing"},
-		}
+local crafting_categories_addition = {
+	["furnace"] = {PLORD.pfx .. "wood_processing"},
+}
+
+local attributes = {
+	["furnace"] = {
+		{"stone-furnace", {crafting_categories = crafting_categories_addition["furnace"], energy_source = {burnt_inventory_size = 1}}},
+		{"steel-furnace", {crafting_categories = crafting_categories_addition["furnace"], energy_source = {burnt_inventory_size = 2}}},
+		{"electric-furnace", {crafting_categories = crafting_categories_addition["furnace"]}},
 	},
 }
 
-for _, structure in pairs(structures_modify) do
-	PLORD_Utils.push_attribute_to(structure.type, structure.name, structure.attrib)
-end
+PLORD_Utils.push_attribute_bridge(attributes)
